@@ -1,0 +1,8 @@
+*.*
+!*.c
+!*.h
+!*.uvprojx
+!*.clang-format
+!*.gitignore
+!*.lin
+!*.md
